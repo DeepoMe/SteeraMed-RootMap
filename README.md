@@ -86,9 +86,9 @@ age between participants with higher vs. lower age-adjusted mIC for a hallmark m
 
 - **[Paper (DOI)](https://doi.org/10.20944/preprints202609.2376.v1)** — the preprint
 - **[alphaXiv](https://www.alphaxiv.org/abs/2609.rootmap-longevity-medicine-framework)** — open discussion
+- **[Listen on alphaXiv](https://www.alphaxiv.org/abs/2609.rootmap-longevity-medicine-framework#audio)** — audio overview of the paper
 - **[SteeraMed](https://steeramed.com)** — the broader framework
 - **[DeepoMe](https://steeramed.com)** — the organization behind this work
-- **[Podcast (Chinese)](https://www.xiaoyuzhoufm.com/episode/6aa7b8d39d3264778168ed6e)** — "Saturday 9:30": When AI enters longevity medicine
 - **[SteeraMed-MorbidMap](https://github.com/DeepoMe/SteeraMed-MorbidMap)** — companion candidate-ranking repository
 - **[SteeraMed-bench](https://github.com/DeepoMe/SteeraMed-bench)** — companion benchmark repository
 
@@ -147,6 +147,6 @@ MIT（代码）/ CC BY 4.0（数据与文档）
 
 熊江辉 — [jianghui@deepome.com](mailto:jianghui@deepome.com)
 
-[论文 DOI](https://doi.org/10.20944/preprints202609.2376.v1) · [alphaXiv 讨论](https://www.alphaxiv.org/abs/2609.rootmap-longevity-medicine-framework) · [播客回听（小宇宙"周六9点半"）](https://www.xiaoyuzhoufm.com/episode/6aa7b8d39d3264778168ed6e)
+[论文 DOI](https://doi.org/10.20944/preprints202609.2376.v1) · [alphaXiv 讨论](https://www.alphaxiv.org/abs/2609.rootmap-longevity-medicine-framework) · [论文音频版（alphaXiv）](https://www.alphaxiv.org/abs/2609.rootmap-longevity-medicine-framework#audio)
 
 [DeepoMe](https://steeramed.com) · [SteeraMed](https://steeramed.com)
