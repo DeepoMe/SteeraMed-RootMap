@@ -6,9 +6,10 @@
 **A Longevity Medicine Framework Based on Blood DNA Methylation**
 **基于血液 DNA 甲基化的长寿医学框架**
 
-[![DeepoMe](https://img.shields.io/badge/Organization-DeepoMe-blue)](https://steeramed.com)
+[![Paper DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202609.2376.v1-orange)](https://doi.org/10.20944/preprints202609.2376.v1)
+[![Preprints.org](https://img.shields.io/badge/Preprints.org-202609.2376%2Fv1-blue)](https://www.preprints.org/manuscript/202609.2376/v1)
+[![alphaXiv](https://img.shields.io/badge/alphaXiv-discussion-green)](https://www.alphaxiv.org/abs/2609.rootmap-longevity-medicine-framework)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Preprint-v1-orange)](https://github.com/DeepoMe/SteeraMed-RootMap/releases/tag/v1)
 
 </div>
 
@@ -69,11 +70,13 @@ age between participants with higher vs. lower age-adjusted mIC for a hallmark m
 ## Citation
 
 ```bibtex
-@preprint{xiong2026rootmap,
+@article{xiong2026rootmap,
   title={RootMap: A Longevity Medicine Framework for Mapping Conditional
          Dependencies Between Aging Hallmarks and Organ-Aging Patterns},
   author={Xiong, Jianghui},
+  journal={Preprints},
   year={2026},
+  doi={10.20944/preprints202609.2376.v1},
   note={Preprint. Code and frozen artifacts:
         https://github.com/DeepoMe/SteeraMed-RootMap}
 }
